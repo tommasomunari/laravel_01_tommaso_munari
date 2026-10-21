@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-custom{
+    background-color: blue;
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-custom{
+    display: flex;
+}
+
+li > a{
+    margin: 30px;
+    list-style-type: none;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
